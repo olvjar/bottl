@@ -1,5 +1,5 @@
 # bottl
-A simple command-line tool written in Rust designed to shorten URLs and generate QR codes for easy sharing and access.
+A simple command-line tool written in Rust designed to shorten URLs, as well read and generate QR codes for easy sharing and access.
 
 ## Features
 - Convert long URLs into short, shareable links.
