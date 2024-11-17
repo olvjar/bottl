@@ -1,0 +1,11 @@
+[package]
+name = "bottl"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+clap = { version = "4.5.21", features = ["derive"] }
+nu-ansi-term = "0.50.1"
+qrcode = "0.14.1"
+reqwest = { version = "0.12.9", features = ["blocking"] }
+tokio = "1.41.1"
